@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giedoomae.keranski.com/sitemap.xml
